@@ -13,7 +13,7 @@ tmp/
 # For this project specifically I want to 
 # ignore document output. In general some pdf
 # files might be used for images or figures
-ISC-4933.pdf
+main.pdf
 
 # General git ignore file for tex projects
 # -------------------------------------------------------------
