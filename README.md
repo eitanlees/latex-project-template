@@ -8,18 +8,15 @@ A template for a modular LaTeX project.
 ├── LICENSE
 ├── Makefile
 ├── README.md
-├── dir_tree.txt
 ├── fig
 │   ├── figure-A.tex
-│   ├── figure-B.tex
-│   └── figure-C.tex
+│   └── figure-B.tex
 ├── main.bib
 ├── main.sty
 ├── main.tex
 └── tex
     ├── section-A.tex
-    ├── section-B.tex
-    └── section-C.tex
+    └── section-B.tex
 
-2 directories, 13 files
+2 directories, 10 files
 ```
