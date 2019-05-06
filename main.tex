@@ -1,20 +1,19 @@
 \documentclass{article}
 \usepackage{main}
+\title{A Modular Latex Template}
+\author{Eitan Lees}
+\date{Summer 2019}
 
 \begin{document}
 
+    \maketitle
+
     \tableofcontents
 
-    \section{Introduction}
-    \section{Section A}
-    \section{Section B}
-    \section{Section C}
+    \input{tex/section-A}
+    \input{tex/section-B}
+    \input{tex/section-C}
     
-    Hello World!
-
-    This is a citations \cite{EPR-paper} inline with the text.
-
-    \input{fig/figure-A.tex}
 
     \printbibliography
 
